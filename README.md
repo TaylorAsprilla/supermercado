@@ -1,2 +1,2 @@
-# supermercado
+# Supermercado
 Proyecto de Grado
