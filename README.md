@@ -20,3 +20,5 @@ Proyecto de Grado
 | fecha | Fecha de la factura |
 | hora | Hora de la factura |
 | descuento | Descuento en pesos del producto |
+
+Descarga de la data [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/data-v1.csv)
