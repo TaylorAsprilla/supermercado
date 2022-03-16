@@ -21,4 +21,11 @@ Proyecto de Grado
 | hora | Hora de la factura |
 | descuento | Descuento en pesos del producto |
 
-Descarga de la data [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/data-v1.csv)
+## Data de ventas
+
+Descarga de la data V2 [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/data-v2.csv)
+Descarga de la data V1 [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/data-v1.csv)
+
+
+## Inventario
+Descarga del Inventario [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/inventario-v1.xls)
