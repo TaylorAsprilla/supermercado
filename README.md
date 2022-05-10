@@ -23,10 +23,14 @@ Proyecto de Grado
 
 ### Data de ventas
 
+Descarga de la data V3 [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/data-v3.csv)
+
 Descarga de la data V2 [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/data-v2.csv)
 
 Descarga de la data V1 [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/data-v1.csv)
 
 
 ### Inventario
+Descarga del Inventario [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/inventario-v2.xls)
+
 Descarga del Inventario [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/inventario-v1.xls)
