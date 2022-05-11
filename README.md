@@ -31,6 +31,6 @@ Descarga de la data V1 [Data Supermercado](https://taylorinteractivo.com.co/proy
 
 
 ### Inventario
-Descarga del Inventario [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/inventario-v2.xls)
+Descarga del Inventario V2 [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/inventario-v2.xlsx)
 
-Descarga del Inventario [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/inventario-v1.xls)
+Descarga del Inventario V1 [Data Supermercado](https://taylorinteractivo.com.co/proyecto-supermercado/inventario-v1.xls)
