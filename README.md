@@ -5,6 +5,8 @@ Proyecto de Grado
 Dashboard en Power BI [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYjY1NzlmMmMtYTdhOC00OGVmLTgxYzEtZjQxYjJjMzQ1ZTY2IiwidCI6IjA4YjViMTkzLWI5YmItNDNmMi05MjJiLTdlMjk0OGE0MDhlOSIsImMiOjR9&pageName=ReportSection)
 
 
+![Dasboard](https://raw.githubusercontent.com/TaylorAsprilla/supermercado/master/dashboard/Informe%20Supermercado%20-%20Proyecto.jpg){width='100px'}
+
 ## Descripción de las variables
 
 | Variable | Descripción |
