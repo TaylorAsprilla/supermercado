@@ -1,6 +1,9 @@
 # Supermercado
 Proyecto de Grado
 
+## Link del Dashboard
+Dashboard en Power BI [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiYjY1NzlmMmMtYTdhOC00OGVmLTgxYzEtZjQxYjJjMzQ1ZTY2IiwidCI6IjA4YjViMTkzLWI5YmItNDNmMi05MjJiLTdlMjk0OGE0MDhlOSIsImMiOjR9&pageName=ReportSection)
+
 
 ## Descripción de las variables
 
