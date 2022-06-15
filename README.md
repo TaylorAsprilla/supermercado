@@ -2,7 +2,7 @@
 Proyecto de Grado
 
 ## Link del Dashboard
-Dashboard en Power BI [Dasboard](https://app.powerbi.com/groups/me/reports/cf220d69-81a3-493b-9b97-e36b2f878dfd/ReportSection7c2b35e94595c8461953)
+Dashboard en Power BI [Dasboard](https://app.powerbi.com/view?r=eyJrIjoiNGE5OTE0YjctNWE1Ni00ZTMyLTkyYTctYmUyZjU5ZTgwNTczIiwidCI6IjA4YjViMTkzLWI5YmItNDNmMi05MjJiLTdlMjk0OGE0MDhlOSIsImMiOjR9&pageName=ReportSection)
 
 
 ![Dasboard](https://raw.githubusercontent.com/TaylorAsprilla/supermercado/master/dashboard/Informe%20Supermercado%20-%20Proyecto.jpg)
